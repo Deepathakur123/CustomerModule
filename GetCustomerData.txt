@@ -11,3 +11,6 @@ Customer education background
 customer salary
 office address
 profession
+Final copy
+All customer data collected
+
