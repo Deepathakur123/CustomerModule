@@ -3,3 +3,7 @@ Name
 Address
 Phone
 Email
+
+
+Customer Work information
+Customer education background
